@@ -23,13 +23,3 @@ Tag princial para funcionamento e reconheicmento do site
     ...
 </html>
 ```
-## 💼 Organização dos Arquivos:
-
-📁Projeto
-    🗄 index.html
-    📁CSS
-        🗄 style.css
-    📁JavaScript
-        🗄 main.js
-    📁Imagens
-        imagem.jpg
